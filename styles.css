@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@600&display=swap');
+
+body {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background: #6fe7dd;
+  text-transform: uppercase;
+  color: #6fe7dd;
+}
+h1 {
+  /* text-transform: uppercase; */
+  display: inline-flex;
+  font-family: 'Source Code Pro', monospace;
+  margin: 2px 0;
+  color: #521262;
+}
+.title{
+  font-size: 50px;
+  font-family: 'Courgette', cursive;
+  display: block;
+  color:#521262;
+}
+.wordInput {
+  display: inline flex;
+  text-align: center;
+  height: 20px;
+  width: 400px;
+  margin-bottom: 25px;
+}
+.button{
+  background: white;
+  margin-top: 15px;
+  height: 30px;
+  width: 80px;
+  margin-bottom: 25px;
+}
+.button:hover{
+  cursor: pointer;
+  background: black;
+  color: white;
+}
+hr {
+  width: 10%;
+  border: 6px dotted;
+  border-right: 0;
+  border-top: 0;
+  border-left: 0;
+  height: 1px;
+  color: #3490de;
+  margin-top: 0;
+  margin-bottom: 25px;
+}
+p{
+  display: block;
+  font-size: 18px;
+  font-family: 'Source Code Pro', monospace;
+  color: #6639a6;
+  margin: 0;
+  margin-left: 25%;
+  word-break: break-all;
+  background-color: rgba(0, 0, 0, 0.082);
+  width: 50%;
+}
+.streamer {
+  font-size: 25px;
+}
+#streamName {
+  text-align: center;
+}
+#streamers{
+  margin-top: 10px;
+  width: 155px;
+}
+h5 {
+  color: #521262;
+  font-size: 30px;
+  font-family: 'Source Code Pro', monospace;
+  margin-bottom: 15px;
+}
+
+
+
+/* 222831
+393e46
+00adb5 */
